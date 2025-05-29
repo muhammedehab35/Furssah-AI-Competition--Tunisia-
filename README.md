@@ -1,7 +1,7 @@
 # Furssah-AI-Competition--Tunisia-
 
 
-# 🔐 Cybersecurity RAG Assistant
+# 🔐 XAI- CYBER-RAG-ASSISTANCE
 
 A powerful Retrieval-Augmented Generation (RAG) assistant tailored for cybersecurity researchers, penetration testers, and threat analysts. This assistant ingests documents and web content (PDFs, DOCX, Markdown, and URLs), embeds and indexes them, and answers questions with contextually accurate responses using local or cloud-hosted LLMs.
 
@@ -48,7 +48,7 @@ cybersec-rag/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/cemek7/cybersec-RAG-bot.git
+git clone https://github.com/muhammedehab35/Furssah-AI-Competition--Tunisia-.git
 cd cybersec-rag
 ```
 
@@ -136,7 +136,7 @@ Configure your cloud LLM endpoint inside `llm_colab_client.py`.
 
 ## 👨‍💻 Maintainer
 
-**christopher ozougwu** – [yourwebsite.com](https://yourwebsite.com)  
+**Mo Ehab** – [yourwebsite.com](https://yourwebsite.com)  
 Built with ❤️ for security researchers, red teamers, and AI hobbyists.
 
 ---
