@@ -38,6 +38,7 @@ cybersec-rag/
 │       └── schema.py           # Pydantic schemas
 ├── vector_store/               # ChromaDB storage
 ├── requirements.txt
+├── Report_Technique.PDF
 └── README.md
 </pre>
 
