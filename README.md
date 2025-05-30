@@ -132,12 +132,6 @@ Configure your cloud LLM endpoint inside `llm_colab_client.py`.
 - [ ] API key and auth middleware  
 - [ ] Auto-CVE feed integration from NVD, Shodan, ExploitDB
 
----
-
-## 👨‍💻 Maintainer
-
-**Mo Ehab** – [yourwebsite.com](https://yourwebsite.com)  
-Built with ❤️ for security researchers, red teamers, and AI hobbyists.
 
 ---
 
